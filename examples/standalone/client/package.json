@@ -1,0 +1,15 @@
+{
+  "name": "standalone",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone Vite + Java integration without vite-plugin-java",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
